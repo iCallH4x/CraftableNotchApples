@@ -1,0 +1,5 @@
+name: CraftableNotchApple
+version: 1.0
+author: iCallH4x
+main: io.github.icallh4x.craftablenotchapples.craftablenotchapples
+api-version: '1.18'
