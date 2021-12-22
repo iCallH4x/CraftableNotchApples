@@ -14,7 +14,7 @@ public class craftablenotchapples extends JavaPlugin {
 
         ItemStack apple = new ItemStack(Material.ENCHANTED_GOLDEN_APPLE, 1);
 
-        ShapedRecipe notchApple = new ShapedRecipe(new NamespacedKey(this, "CustomItem"), apple);
+        ShapedRecipe notchApple = new ShapedRecipe(new NamespacedKey(this, "CraftedNotchApple"), apple);
 
         notchApple.shape("***", "*A*", "***");
 
